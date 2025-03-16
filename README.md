@@ -18,7 +18,7 @@
 ## 🚀 Installation  
 To run the project locally, follow these steps:  
 ```sh
-git clone https://github.com/yourusername/FlappyBird-Unity.git
+git clone https://github.com/FlappyBird-Unity.git
 cd FlappyBird-Unity
 open FlappyBird-Unity in Unity Editor
 ```
