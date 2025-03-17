@@ -15,6 +15,10 @@
 3️⃣ The game ends when the bird hits a pipe or falls to the ground.  
 4️⃣ Try to beat your highest score!
 
+🎮 Controls
+Tap: Make the bird fly upwards.
+Esc: Pause the game.
+
 ## 🚀 Installation  
 To run the project locally, follow these steps:  
 ```sh
@@ -24,13 +28,10 @@ open FlappyBird-Unity in Unity Editor
 ```
 
 🔧 Requirements
-Unity: Version 2021.3.x or above
+Unity: Version 2022.3.10 or above
 Operating System: Windows, macOS, or Linux
 .NET: .NET 4.x
 
-🎮 Controls
-Tap: Make the bird fly upwards.
-Esc: Pause the game.
 
 👥 Contribute
 We welcome contributions! Here's how you can get involved:
