@@ -22,7 +22,7 @@ Esc: Pause the game.
 ## 🚀 Installation  
 To run the project locally, follow these steps:  
 ```sh
-git clone https://github.com/FlappyBird-Unity.git
+git clone https://github.com/edaaydemir/FlappyBird
 cd FlappyBird-Unity
 open FlappyBird-Unity in Unity Editor
 ```
